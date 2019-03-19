@@ -1,0 +1,1 @@
+java -jar Hello-1.0-SNAPSHOT.jar
